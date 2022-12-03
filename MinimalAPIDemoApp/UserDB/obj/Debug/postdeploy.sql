@@ -12,8 +12,15 @@ Post-Deployment Script Template
 IF NOT EXISTS (SELECT 1 FROM dbo.[User]) BEGIN
     INSERT INTO dbo.[User] (FirstName, LastName)
     VALUES 
-        ('alex', 'reaktor'),
+        ('alexei', 'reaktor'),
         ('shirley', 'pepette'),
         ('william', 'amin');
+END
+
+IF NOT EXISTS (SELECT 1 FROM dbo.[Article]) BEGIN
+    INSERT INTO dbo.[Article] (Name, Description, Price)
+    VALUES 
+        ('pants', 'pretty', 12),
+        ('shirt', 'nice', 14);
 END
 GO

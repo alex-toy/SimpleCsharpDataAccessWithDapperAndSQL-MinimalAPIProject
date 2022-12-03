@@ -5,6 +5,6 @@
 AS
 BEGIN
 	UPDATE dbo.[User]
-	SET FirstName =  @firstName, LastName =  @lastName
+	SET FirstName = @firstName, LastName = @lastName
 	WHERE Id = @Id;
 END

@@ -1,3 +1,4 @@
+using DataAccess.Data.Articles;
 using DataAccess.Repositories;
 using MinimalAPIDemo;
 
@@ -8,7 +9,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<ISqlDataAccess, SqlDataAccess>();
+
 builder.Services.AddSingleton<IUserData, UserData>();
+builder.Services.AddSingleton<IArticleData, ArticleData>();
 
 var app = builder.Build();
 
