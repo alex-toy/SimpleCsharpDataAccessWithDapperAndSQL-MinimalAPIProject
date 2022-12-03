@@ -1,0 +1,6 @@
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\UserDB\bin\Debug\UserDB.dacpac
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\UserDB\bin\Debug\UserDB.dll
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\UserDB\bin\Debug\UserDB.pdb
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\UserDB\obj\Debug\UserDB.dll
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\UserDB\obj\Debug\UserDB.pdb
