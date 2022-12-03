@@ -1,0 +1,12 @@
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

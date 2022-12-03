@@ -58,3 +58,9 @@ Copy it from the properties :
 <img src="/pictures/connection_string.png" title="connection string"  width="800">
 
 
+## Test API
+
+<img src="/pictures/api1.png" title="api"  width="800">
+<img src="/pictures/api2.png" title="api"  width="800">
+
+

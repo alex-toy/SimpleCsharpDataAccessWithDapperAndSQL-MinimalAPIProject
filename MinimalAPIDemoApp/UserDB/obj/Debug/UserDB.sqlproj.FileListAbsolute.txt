@@ -4,3 +4,7 @@ C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\Minima
 C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
 C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\UserDB\obj\Debug\UserDB.dll
 C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\UserDB\obj\Debug\UserDB.pdb
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\UserDB\obj\Debug\Model.xml
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\UserDB\obj\Debug\refactor.xml
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\UserDB\obj\Debug\postdeploy.sql
+C:\source\Csharp\SimpleCsharpDataAccessWithDapperAndSQL-MinimalAPIProject\MinimalAPIDemoApp\UserDB\obj\Debug\predeploy.sql
