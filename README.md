@@ -3,6 +3,16 @@
 Minimal APIs are now the default in .NET 6. In this project, we will cover setting up a SQL database and configuring Dapper for easy data access. We will set up a simple but full CRUD data layer so that when we build our minimal API, we can concentrate on the API itself and not the setup. 
 
 
+## Create project
+
+<img src="/pictures/create_project.png" title="create project"  width="400">
+
+
+## Create sql server
+
+<img src="/pictures/create_sql_server.png" title="create sql server"  width="400"> 
+
+
 ## Add Table
 
 <img src="/pictures/sql.png" title="sql"  width="600"> 
@@ -44,6 +54,7 @@ Install-Package Microsoft.Extensions.Configuration.Abstraction
 
 ## Get connection string
 
+Copy it from the properties :
 <img src="/pictures/connection_string.png" title="connection string"  width="800">
 
 
