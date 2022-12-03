@@ -42,4 +42,8 @@ Install-Package System.Data.SqlClient
 Install-Package Microsoft.Extensions.Configuration.Abstraction
 ```
 
+## Get connection string
+
+<img src="/pictures/connection_string.png" title="connection string"  width="800">
+
 
