@@ -26,11 +26,20 @@ Then click *Save Profile As*. That should create a *publish.xml* file. Double cl
 
 <img src="/pictures/post_deployment_script4.png" title="post deployment script"  width="600">
 
-Create a SQL Server Object Explorer
+## Create a SQL Server Object Explorer
 
 <img src="/pictures/sql_server_object_explorer.png" title="sql server object explorer"  width="500">
 <img src="/pictures/sql_server_object_explorer2.png" title="sql server object explorer"  width="400">
 
-Add editor config
+## Add editor config
 
 <img src="/pictures/editor_config.png" title="editor config"  width="500">
+
+## Add Nuget Packages
+```
+Install-Package Dapper
+Install-Package System.Data.SqlClient
+Install-Package Microsoft.Extensions.Configuration.Abstraction
+```
+
+
